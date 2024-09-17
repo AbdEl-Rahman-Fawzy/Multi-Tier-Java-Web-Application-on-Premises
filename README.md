@@ -26,10 +26,10 @@ Each project provides hands-on experience with key technologies including Vagran
 - **Git**: For version control.
 
 ##multi-tier-java-web-app/
-- **├── Project1/       # Contains manual setup project files
-- **├── Project2/       # Contains automation project files
-- **├── docs/           # Documentation for both projects
-- **└── README.md       # Main project overview and description
+- ├── Project1/       # Contains manual setup project files
+- ├── Project2/       # Contains automation project files
+- ├── docs/           # Documentation for both projects
+- └── README.md       # Main project overview and description
 
 ## Project1: Manual Setup
 In **Project1**, each component of the multi-tier Java web application is manually installed and configured on its own virtual machine.
