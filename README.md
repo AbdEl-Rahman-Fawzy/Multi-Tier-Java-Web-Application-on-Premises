@@ -9,7 +9,7 @@ This repository demonstrates the creation and automation of a multi-tier Java we
 Each project provides hands-on experience with key technologies including Vagrant, VirtualBox/VMware, Tomcat, Nginx, RabbitMQ, Memcached, MySQL, Maven, and Git.
 
 ## Objectives:
-- Build a Java-based web application with a multi-tier architecture.
+- Build a Java-based web application with a multi-tier architecture. 
 - Configure services manually to understand each component's setup process.
 - Automate the entire configuration using shell scripts to streamline deployment.
 - Develop troubleshooting and debugging skills during integration and setup.
