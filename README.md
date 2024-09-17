@@ -26,7 +26,11 @@ Each project provides hands-on experience with key technologies including Vagran
 - **Git**: For version control.
 
 ## Folder Structure
-multi-tier-java-web-app/ ├── Project1/ # Manual setup project ├── Project2/ # Automation project ├── docs/ # Documentation for both projects └── README.md # Project overview
+multi-tier-java-web-app/ 
+├── Project1/ # Manual setup project
+├── Project2/ # Automation project 
+├── docs/ # Documentation for both projects 
+└── README.md # Project overview
 
 
 ## Project1: Manual Setup
@@ -60,7 +64,7 @@ In **Project1**, each component of the multi-tier Java web application is manual
    - Verify the application and troubleshoot any issues.
 
 6. **Documentation**:
-   - Record configuration steps and troubleshooting techniques in the [docs](./docs) folder.
+   - Record configuration steps and troubleshooting techniques.
 
 ## Project2: Automating Setup with Shell Scripts
 In **Project2**, the setup process is automated through shell scripts, simplifying the installation and configuration of all components.
